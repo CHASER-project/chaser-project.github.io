@@ -9,7 +9,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">\
+    <link rel="icon" type="image/png" href="images/chaser_favicon-32x32.png">
     {% include head-custom.html %}
   </head>
   <body>
@@ -22,7 +23,7 @@
         <a href="/people" class="btn">People</a>
     </header>
 
-    <main id="content" class="main-content" role="main">
+    <main id="content" class="main-content" role="main" style="text-align: justify;">
       <img src="/images/CHASER_LOGO.jpg" alt="CHASER Logo" title="CHASER Logo" style="max-width: 50%; height: auto; display: block; margin: auto; margin-bottom: 5%;">
       {{ content }}
     </main>
