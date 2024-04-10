@@ -15,7 +15,7 @@ permalink: /team/
 **ETH Zürich, Switzerland**
 - Christoph Studer - *Principal Investigator*
 - Victorial Palhares - *Ph.D. Student*
-- Reinhard Wiesmayr - *Ph.D. Student*
+- Sueda Taner - *Ph.D. Student*
 - Frederik Zumegen - *Ph.D. Student*
 
 **University of Minho, Portugal**
