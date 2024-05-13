@@ -10,7 +10,7 @@ permalink: /team/
 
 **Inria, France**
 - Maxime Guillaud - *Principal Investigator*
-- Yamil Vindas - *Ph.D. Student*
+- Yamil Vindas - *Post-Doctoral Researcher*
 
 **ETH Zürich, Switzerland**
 - Christoph Studer - *Principal Investigator*
