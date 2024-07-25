@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2024
+- Z. Uykan, H. Al-Tous, H. Yiğitler, R. Jäntti, and O. Tirkkonen, "Angle-Delay Features and Distances for Channel Charting", IEEE Wireless Communications and Networking Conference, Dubai, UAE, Apr. 2024.
+
 ### 2023
 - S. Taner, M. Guillaud, O. Tirkkonen, and C. Studer, ["Channel Charting for Streaming CSI Data"](https://arxiv.org/abs/2312.04514), arXiv:2312.04514 [cs.IT], Dec. 2023.
 
