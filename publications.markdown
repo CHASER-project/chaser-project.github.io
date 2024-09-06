@@ -11,7 +11,7 @@ permalink: /publications/
 
 - B. Shaikh, P. Garau Burguera, H. Al-Tous, M.J. Juntti, M.B. Khan, O. Tirkkonen, ["Channel Charting Based Pilot Allocation in MIMO Systems"](https://research.aalto.fi/en/publications/channel-charting-based-pilot-allocation-in-mimo-systems), IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Sep. 2024.
 
-- Z. Uykan, H. Al-Tous, H. Yiğitler, R. Jäntti, and O. Tirkkonen, "Angle-Delay Features and Distances for Channel Charting", IEEE Wireless Communications and Networking Conference, Dubai, UAE, Apr. 2024.
+- Z. Uykan, H. Al-Tous, H. Yiğitler, R. Jäntti, and O. Tirkkonen, ["Angle-Delay Features and Distances for Channel Charting"](https://ieeexplore.ieee.org/document/10571176), IEEE Wireless Communications and Networking Conference, Dubai, UAE, Apr. 2024.
 
 ### 2023
 - S. Taner, M. Guillaud, O. Tirkkonen, and C. Studer, ["Channel Charting for Streaming CSI Data"](https://arxiv.org/abs/2312.04514), arXiv:2312.04514 [cs.IT], Dec. 2023.
