@@ -4,8 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2025
+- M. E. M. Makhlouf, M. Guillaud, and Y. Vindas, [“Multi-cell Outdoor Channel State Information Dataset (MOCSID)”](https://zenodo.org/records/15294869), in Proceedings of the European Conference on Networks and Communications and 6G Summit, Jun. 2025.
+
 ### 2024
--  P. Garau Burguera, B. Shaikh, H. Al-Tous, M. Juntti, O. Tirkkonen, ["Pilot Allocation for Cell-Free Massive MIMO based on Channel Charting"](https://acris.aalto.fi/ws/portalfiles/portal/166424211/Asilomar24_CC_PilotAlloc_Cell_free.pdf), Asilomar Conference on Signals, Systems, and Computers, Oct. 2024.
+- Y. Vindas, and M. Guillaud, ["Dynamic Channel Charting: Integrating Online Sample Selection with Continual Learning for Streaming CSI Data"](https://hal.science/hal-04765610), Nov. 2024.
+
+- P. Garau Burguera, B. Shaikh, H. Al-Tous, M. Juntti, O. Tirkkonen, ["Pilot Allocation for Cell-Free Massive MIMO based on Channel Charting"](https://acris.aalto.fi/ws/portalfiles/portal/166424211/Asilomar24_CC_PilotAlloc_Cell_free.pdf), Asilomar Conference on Signals, Systems, and Computers, Oct. 2024.
 
 - F. Zumegen, C. Studer, ["A Software-Defined and Distributed Wi-Fi Channel-State Information Acquisition Testbed"](https://arxiv.org/pdf/2412.07588), Asilomar Conference on Signals, Systems, and Computers, Oct. 2024.
 
