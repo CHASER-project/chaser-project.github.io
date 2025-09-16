@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### 2025
-- B. Shaikh, P. Garau Burguera, H. Al-Tous, M. Juntti, B. M. Khan, and O. Tirkkonen, [?Pilot Allocation in Multi-Cell MIMO Systems Based on Missing Data Imputation?,](https://research.aalto.fi/en/publications/pilot-allocation-in-multi-cell-mimo-systems-based-on-missing-data) IEEE Access, vol. 13, pp. 123764 ? 123782, Jul. 2025.
+- B. Shaikh, P. Garau Burguera, H. Al-Tous, M. Juntti, B. M. Khan, and O. Tirkkonen, [?Pilot Allocation in Multi-Cell MIMO Systems Based on Missing Data Imputation?,](https://research.aalto.fi/en/publications/pilot-allocation-in-multi-cell-mimo-systems-based-on-missing-data) IEEE Access, vol. 13, pp. 123764 - 123782, Jul. 2025.
 
 - M. E. M. Makhlouf, M. Guillaud, and Y. Vindas, [“Multi-cell Outdoor Channel State Information Dataset (MOCSID),”](https://zenodo.org/records/15294869) European Conference on Networks and Communications and 6G Summit, Jun. 2025.
 
