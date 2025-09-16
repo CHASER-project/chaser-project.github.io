@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### 2025
+- B. Shaikh, P. Garau Burguera, H. Al-Tous, M. Juntti, B. M. Khan, and O. Tirkkonen, [?Pilot Allocation in Multi-Cell MIMO Systems Based on Missing Data Imputation?,](https://research.aalto.fi/en/publications/pilot-allocation-in-multi-cell-mimo-systems-based-on-missing-data) IEEE Access, vol. 13, pp. 123764 ? 123782, Jul. 2025.
+
 - M. E. M. Makhlouf, M. Guillaud, and Y. Vindas, [“Multi-cell Outdoor Channel State Information Dataset (MOCSID),”](https://zenodo.org/records/15294869) European Conference on Networks and Communications and 6G Summit, Jun. 2025.
 
 - S. Kokkonen, X. Li, A. Srinivasan, H. Al-Tous, and O. Tirkkonen, [“Metric Learning based Positioning,”](https://users.aalto.fi/~oltirkko/pubs/Kokkonen2025.pdf) IEEE Wireless Communications and Networking Conference (WCNC), Mar. 2025.
@@ -20,7 +22,7 @@ permalink: /publications/
 
 - Y. Vindas and M. Guillaud, ["Multi-Site Wireless Channel Charting Through Latent Space Alignment,"](https://hal.science/hal-04685466) IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Sep. 2024.
 
-- B. Shaikh, P. Garau Burguera, H. Al-Tous, M. Juntti, M.B. Khan, and O. Tirkkonen, ["Channel Charting Based Pilot Allocation in MIMO Systems,"](https://research.aalto.fi/en/publications/channel-charting-based-pilot-allocation-in-mimo-systems) IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Sep. 2024.
+- B. Shaikh, P. Garau Burguera, H. Al-Tous, M. Juntti, M. B. Khan, and O. Tirkkonen, ["Channel Charting Based Pilot Allocation in MIMO Systems,"](https://research.aalto.fi/en/publications/channel-charting-based-pilot-allocation-in-mimo-systems) IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Sep. 2024.
 
 - Z. Uykan, H. Al-Tous, H. Yiğitler, R. Jäntti, and O. Tirkkonen, ["Angle-Delay Features and Distances for Channel Charting,"](https://ieeexplore.ieee.org/document/10571176) IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2024.
 
@@ -32,4 +34,4 @@ permalink: /publications/
 
 - F. Euchner, C. Eun Lee, and P. Stephan, [“Dissimilarity Metric-Based Channel Charting,”](https://dichasus.inue.uni-stuttgart.de/tutorials/tutorial/dissimilarity-metric-channelcharting/) Online Tutorial, Oct. 2023.
 
-- C. Studer, S. Medjkouh, E. Gönültaş, T. Goldstein, and O. Tirkkonen, ["Channel Charting: Locating Users Within the Radio Environment Using Channel State Information,"](https://ieeexplore.ieee.org/abstract/document/8444621) IEEE Access, vol. 6, pp. 47682–47698, 2018.
+- C. Studer, S. Medjkouh, E. Gönültaş, T. Goldstein, and O. Tirkkonen, ["Channel Charting: Locating Users Within the Radio Environment Using Channel State Information,"](https://ieeexplore.ieee.org/abstract/document/8444621) IEEE Access, vol. 6, pp. 47682–47698, Aug. 2018.
