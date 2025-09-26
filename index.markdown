@@ -5,6 +5,8 @@
 layout: home
 ---
 
+Link to the [CHASER Workshop on Privacy in Wireless Communications](/privacy-workshop.html)
+
 Channel charting (CC) is an emerging application of self-supervised machine learning (ML) to wireless communication, which leverages the fact that wireless communications systems continuously collect data about the electromagnetic propagation channel. This data, known as channel state information (CSI), is high-dimensional and acquired at fast rates but typically discarded immediately after use. In contrast, CC recycles acquired CSI data by means of dimensionality reduction (DR) to learn a so-called channel chart. This channel chart is essentially a low-dimensional representation of the CSI with the salient property that users who are close in the channel chart are also close in physical space. Put simply: CC is a method that produces a pseudo-location information with no recourse to classical positioning methods, potentially opening up a range of location-based applications to operate with significantly reduced overhead.
 
 ### Typical Channel Charting Pipeline
