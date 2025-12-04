@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 ### 2025
+- A. Kumar, Y. Vindas, and M. Guillaud, ["Doppler-Supervised Channel Charting,"](https://zenodo.org/records/17800204), Dec. 2025.
+
+- M. E. M. Makhlouf, Y. Vindas, A. Kumar, M. Guillaud, and M. Di Renzo, ["Charting Channels in the Presence of RIS,"](https://zenodo.org/records/17799743) Asilomar Conference on Signals, Systems, and Computers, Oct. 2025.
+
 - B. Shaikh, P. Garau Burguera, H. Al-Tous, M. Juntti, B. M. Khan, and O. Tirkkonen, ["Pilot Allocation in Multi-Cell MIMO Systems Based on Missing Data Imputation",](https://research.aalto.fi/en/publications/pilot-allocation-in-multi-cell-mimo-systems-based-on-missing-data) IEEE Access, vol. 13, pp. 123764 - 123782, Jul. 2025.
 
 - M. E. M. Makhlouf, M. Guillaud, and Y. Vindas, [“Multi-cell Outdoor Channel State Information Dataset (MOCSID),”](https://zenodo.org/records/15294869) European Conference on Networks and Communications and 6G Summit, Jun. 2025.
@@ -27,7 +31,7 @@ permalink: /publications/
 - Z. Uykan, H. Al-Tous, H. Yiğitler, R. Jäntti, and O. Tirkkonen, ["Angle-Delay Features and Distances for Channel Charting,"](https://ieeexplore.ieee.org/document/10571176) IEEE Wireless Communications and Networking Conference (WCNC), Apr. 2024.
 
 ### 2023
-- S. Taner, M. Guillaud, O. Tirkkonen, and C. Studer, ["Channel Charting for Streaming CSI Data,"](https://arxiv.org/abs/2312.04514) arXiv:2312.04514 [cs.IT], Dec. 2023.
+- S. Taner, M. Guillaud, O. Tirkkonen, and C. Studer, ["Channel Charting for Streaming CSI Data,"](https://ieeexplore.ieee.org/document/10477084) Asilomar Conference on Signals, Systems, and Computers, Oct. 2023.
 
 ### Resources for Channel Charting
 - C. Studer, ["Channel Charting Resources,"](https://channelcharting.github.io) Dec. 2023.
