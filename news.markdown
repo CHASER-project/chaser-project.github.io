@@ -5,7 +5,7 @@ permalink: /news/
 ---
 
 ### 10.09.2026 - In-Person Meeting in Lyon, France
-Today, the project partners met in Lyon, France, for the concluding in-person meeting of the project. The meeting was kindly hosted by Maxime Guillaud at Inria. Looking back on almost three years of close collaboration, the participants presented their latest results and reflected on what the project has achieved together, from the synthetic and real-world CSI datasets to new methods for distributed and online channel charting. Everyone was very pleased with the progress made and the many developments that came out of the collaboration. The meeting ended with lively discussions on open research questions and ideas for continuing the fruitful exchange between the groups beyond the end of the project.
+Today, the project partners met in Lyon, France, for the concluding in-person meeting of the project. The meeting was kindly hosted by Maxime Guillaud at Inria. Looking back on almost three years of close collaboration, the participants presented their latest results and reflected on what the project has achieved together, from the synthetic and real-world CSI datasets to new methods for distributed and online channel charting and a channel charting API. Everyone was very pleased with the progress made and the many developments that came out of the collaboration. The meeting ended with lively discussions on open research questions and ideas for continuing the exchange between the groups beyond the end of the project.
 
 <p align="center">
   <img src="/images/20260911-group-photo.jpg" alt="Image 1" width="60%">
