@@ -5,11 +5,19 @@ permalink: /publications/
 ---
 
 ### 2026
+- H. Al-Tous, C. Studer, and O. Tirkkonen, ["Metrics and Channel State Information Foundation Models,"](https://research.aalto.fi/en/publications/metrics-and-channel-state-information-foundation-models/) IEEE Global Communications Conference (GLOBECOM), Dec. 2026.
+
+- X. Li, P. Garau Burguera, H. Al-Tous, and O. Tirkkonen, ["Autoencoder Enabled Channel Charting with Transfer Learning for Environmental Dynamics,"](https://research.aalto.fi/en/publications/autoencoder-enabled-channel-charting-with-transfer-learning-for-e/) IEEE Global Communications Conference (GLOBECOM), Dec. 2026.
+
+- P. Garau Burguera, H. Al-Tous, and O. Tirkkonen, ["Distributed Algorithms for Wide-area Channel Charting in Cell-Free Massive MIMO Systems,"](https://research.aalto.fi/en/publications/distributed-algorithms-for-wide-area-channel-charting-in-cell-fre/) IEEE Global Communications Conference (GLOBECOM), Dec. 2026.
+
 - C. Morin, L. Cardoso, M. Guillaud, A. Shokair, Y. Nasser, A. Hennequart, and G. Lerosey, ["An Experimental Assessment of the Spatial and Frequency Selectivity of Reconfigurable Intelligent Surfaces,"](https://inria.hal.science/hal-05665687) IEEE Conference on Integrated Sensing and Communications (ISAC), Nov. 2026.
 
-- P. Garau Burguera, H. Al-Tous, and O. Tirkkonen, "Distributed Multi-point Channel Charting for Cell-Free Massive MIMO Systems," IEEE Vehicular Technology Conference (VTC-Spring), Jun. 2026.
+- A. Mondal, P. Garau Burguera, A. Srinivasan, M. Batool, H. Al-Tous, and O. Tirkkonen, ["On the Robustness of CSI Features and Distance Metrics for Indoor Positioning: Evidence from CAEZ-5G and DICHASUS,"](https://research.aalto.fi/en/publications/on-the-robustness-of-csi-features-and-distance-metrics-for-indoor/) Workshop for Computing & Advanced Localization at IPIN, Oct. 2026.
 
-- N. Saba, P. Garau Burguera, J. Liao, H. Al-Tous, O. Tirkkonen, and R. Jäntti, "Backscatter Devices Assisted Channel Charting," IEEE Vehicular Technology Conference (VTC-Spring), Jun. 2026.
+- P. Garau Burguera, H. Al-Tous, and O. Tirkkonen, ["Distributed Multi-point Channel Charting for Cell-Free Massive MIMO Systems,"](https://research.aalto.fi/en/publications/distributed-multi-point-channel-charting-for-cell-free-massive-mi/) IEEE Vehicular Technology Conference (VTC-Spring), Jun. 2026.
+
+- N. Saba, P. Garau Burguera, J. Liao, H. Al-Tous, O. Tirkkonen, and R. Jäntti, ["Backscatter Devices Assisted Channel Charting,"](https://research.aalto.fi/en/publications/backscatter-devices-assisted-channel-charting/) IEEE Vehicular Technology Conference (VTC-Spring), Jun. 2026.
 
 - A. Kumar, Y. Vindas, and M. Guillaud, ["Doppler-Supervised Channel Charting,"](https://inria.hal.science/hal-05395262) IEEE International Conference on Communications (ICC), May 2026.
 
